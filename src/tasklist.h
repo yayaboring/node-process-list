@@ -11,6 +11,7 @@
 #include <vector>
 #include <memory>
 #include <string>
+#include <stdexcept>
 
 #define NORMAL(x, low, high) (((x) > (high))?(high):(((x) < (low))?(low):(x)))
 
