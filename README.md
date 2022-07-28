@@ -9,9 +9,9 @@
 ### Install
 
 ```bash
-npm i process-list
+npm i https://github.com/yayaboring/node-process-list/tarball/master
 # or
-yarn add process-list
+yarn add https://github.com/yayaboring/node-process-list/tarball/master
 ```
 
 It's that easy! npm will download one of the [prebuilt](https://github.com/reklatsmasters/node-process-list/releases/latest) binaries for your OS. If you need to build `process-list`, see [node-gyp](https://npmjs.org/package/node-gyp) for more details.
